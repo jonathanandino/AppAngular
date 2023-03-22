@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839601447320",
+    "project_id": "my-drawer-ng-2c1a3",
+    "storage_bucket": "my-drawer-ng-2c1a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839601447320:android:0b5c6dcaa3f81958decbed",
+        "android_client_info": {
+          "package_name": "org.mydrawer.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839601447320-i71kgrs64qbceps4kblhrvg1jh0k9hbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscfa2NSPpL1SVHJNCpq3TOG2HUnMTK7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839601447320-i71kgrs64qbceps4kblhrvg1jh0k9hbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
